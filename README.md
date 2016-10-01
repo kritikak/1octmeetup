@@ -3,4 +3,4 @@ Training Repo
 
 Contributors
 
-[Shashank Kumar](https://github.com/realslimshanky)
+[kritika singh] {https://github.com/kritikak}
